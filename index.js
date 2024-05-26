@@ -32,7 +32,7 @@ const questions = [
   },
 ];
 
-const generateSV = async (questions) => {
+const creatingSvgFile = async (questions) => {
   try {
     const answers = await inquirer.prompt(questions);
     generateSVG(answers);
@@ -41,4 +41,4 @@ const generateSV = async (questions) => {
   }
 };
 
-generateSV(questions);
+creatingSvgFile(questions);

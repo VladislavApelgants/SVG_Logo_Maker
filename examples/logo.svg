@@ -1,5 +1,5 @@
 
 <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-  <polygon points="150,20 280,180 20,180" fill="#c4c4c4" />
-  <text x="150" y="120" fill="green" text-anchor="middle" dominant-baseline="middle" font-size="40">ert</text>
+  <polygon points="150,20 280,180 20,180" fill="red" />
+  <text x="150" y="120" fill="green" text-anchor="middle" dominant-baseline="middle" font-size="50">SVG</text>
 </svg>
