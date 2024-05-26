@@ -2,7 +2,7 @@
 
 ## Description
 
-проект по генерации ридми файла
+creating a svg file according to the specified parameters
 
 ## Table of Contents
 - [Installation](#installation)
